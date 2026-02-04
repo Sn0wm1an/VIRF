@@ -1,0 +1,183 @@
+1. SharpUtensilHazard Hazard: Always handle sharp utensils with care, keep fingers away from the blade edge, and store them in a secure location when not in use. (Level 4)
+
+2. LooseClothingNearFireSource Hazard: Loose clothing near a fire source can catch fire quickly, leading to severe burns or fatal injuries. Keep loose clothing away from stovetops, open flames, and other heat sources. (Level 5)
+
+3. HotStovetopContactHazard Hazard: Keep plastic utensils, potholders, dish towels, and curtains away from hot stovetops to prevent melting, fire hazards, or severe burns. (Level 4)
+
+4. ChildNearHotStove Hazard: Keep children away from hot stoves to prevent severe burns or accidents. (Level 4)
+
+5. ChildNearHotArea Hazard: Keep children away from hot areas such as stoves, ovens, or boiling water to prevent severe burns. (Level 4)
+
+6. ChildReachPotHandle Hazard: Ensure pot handles are turned inward and out of reach of children to prevent them from pulling hot pots or pans onto themselves. (Level 4)
+
+7. PotOnBackBurner Hazard: Be cautious when using pots on back burners. Ensure handles are turned inward to avoid accidental tipping, and keep the area clear of flammable materials. (Level 3)
+
+8. ChildClimbsToHotSurface Hazard: Keep children away from chairs, stepstools, or any objects they can use to climb and reach hot surfaces. Ensure that all cooking appliances and heated items are out of their reach. (Level 4)
+
+9. HotSurfaceChildContact Hazard: Keep children away from hot surfaces to prevent severe burns and injuries. (Level 4)
+
+10. PersonOverHotFryer Hazard: Do not lean over or stand directly above a hot fryer to avoid severe burns from splashing oil or steam. (Level 4)
+
+11. PersonOnFryerHazard Hazard: Never stand, sit, or place any part of your body on top of a fryer as it poses an extreme risk of severe burns, falls, and potential fire hazards. (Level 5)
+
+12. WaterInHotOilHazard Hazard: Never add water or ice to hot oil as it can cause an explosive reaction, resulting in splattering oil and potential severe burns or fire hazards. (Level 5)
+
+13. DeepFryerHotOilOverfill Hazard: Do not overfill a deep fryer with hot oil as it can cause the oil to spill over, leading to dangerous splatters, fires, or explosions upon contact with flames or heating elements. (Level 5)
+
+14. SlipperyFloorNearHotSurface Hazard: Be cautious of slippery floors near hot surfaces as they can cause slips leading to severe burns or injuries. Use non-slip mats and ensure proper footwear. (Level 4)
+
+15. StoveOnHazard Hazard: The stove is turned on and may cause burns, fires, or unattended cooking hazards. Always monitor the stove while it's in use and ensure it's turned off after cooking. (Level 4)
+
+16. HotApplianceHazard Hazard: Avoid direct contact with hot appliances. Use protective gloves or utensils when handling items from or near hot appliances to prevent burns. (Level 4)
+
+17. OverheatedDeepFryerHazard Hazard: The deep fryer is overheated and not at the correct operational level, posing a severe risk of fire or explosion. Turn off immediately and unplug the device to cool down safely. (Level 5)
+
+18. SharpObjectHazard Hazard: Handle sharp objects with extreme care. Always use protective gloves, ensure proper cutting techniques, and store sharp items securely when not in use. (Level 4)
+
+19. HotSurfaceHazard Hazard: Avoid direct contact with hot surfaces to prevent severe burns. Use protective gloves or utensils when handling hot items. (Level 4)
+
+20. UnsecuredStoveNearChild Hazard: Ensure stove knobs are protected and child-proof locks are installed to prevent children from accidentally turning on the stove, which could lead to burns or fires. (Level 4)
+
+21. FlammableNearStovetop Hazard: Keep flammable materials such as potholders, oven mitts, paper bags, plastic bags, and curtains away from the stovetop to prevent fire hazards. (Level 5)
+
+22. SlippingHazardNearGrillArea Hazard: Be cautious of slippery surfaces near the grill area to avoid falls that could result in serious burns or injuries. (Level 4)
+
+23. PersonNearHotFryer Hazard: Stay clear of hot fryers to avoid severe burns or injuries. Use protective gear if interaction with the fryer is necessary. (Level 4)
+
+24. WaterOilInteractionHazard Hazard: Never pour water or ice into hot oil as it can cause an explosive reaction, leading to severe burns and fires. (Level 5)
+
+25. WaterOnGreaseFireHazard Hazard: Never pour or throw water on a grease fire as it can cause an explosive reaction, spreading flames and hot grease violently. (Level 5)
+
+26. FlammableItemHazard Hazard: Flammable items improperly stored near heat-producing equipment can cause fires or explosions. Ensure all flammable materials are stored in approved containers and kept away from heat sources. (Level 5)
+
+27. HotOilGreaseFireHazard Hazard: Hot oil or grease can easily ignite and cause a severe fire. Never leave cooking oil unattended on high heat, and keep flammable materials away from the cooking area. Use a lid or fire extinguisher (class K) to smother any flames if a fire starts. (Level 5)
+
+28. PoisonousProductNearFood Hazard: Do not store poisonous products near food to prevent contamination and accidental ingestion, which could lead to severe health risks. (Level 4)
+
+29. AmmoniaBleachMixtureHazard Hazard: Never mix ammonia and bleach as it produces toxic chlorine gas which can be fatal when inhaled. Ensure proper ventilation and avoid combining any cleaning agents without consulting safety guidelines. (Level 5)
+
+30. ChemicalInImproperContainer Hazard: Do not store chemicals in containers other than their original packaging. This can lead to contamination, incorrect labeling, or reactions with the container material, posing serious health risks. (Level 4)
+
+31. FoodChemicalMixUpHazard Hazard: Do not store chemicals in food containers or food in chemical containers. This can lead to accidental ingestion of harmful substances, causing poisoning or severe health risks. (Level 4)
+
+32. ChemicalNearFoodSurface Hazard: Keep all chemicals away from food and food contact surfaces to prevent contamination and potential poisoning. Store chemicals in dry, locked cabinets when not in use. (Level 4)
+
+33. ImproperlyLabelledChemicals Hazard: Improperly labelled chemicals can lead to accidental misuse, causing skin burns, respiratory issues, or chemical reactions. Always ensure containers are clearly and accurately labelled with contents and hazards. (Level 4)
+
+34. HandInContactWithChemical Hazard: Avoid direct skin contact with chemicals. Always wear gloves and wash hands thoroughly after handling chemicals. (Level 4)
+
+35. FoodNearChemicalHazard Hazard: Keep non-perishable food items away from household cleaning products and chemicals to prevent contamination, which could lead to serious illness if consumed. (Level 4)
+
+36. ChemicalNearDishFood Hazard: Keep all chemicals away from dishes and food to prevent contamination and potential ingestion, which could lead to serious health risks. (Level 4)
+
+37. ChemicalNearFoodArea Hazard: Keep all chemicals away from food preparation areas and store them securely in locked cabinets to prevent contamination and potential harm. (Level 4)
+
+38. UnlabelledDecantedChemical Hazard: Unlabelled decanted chemicals can lead to accidental misuse, causing chemical burns, toxic exposure, or hazardous reactions. Always label all chemical containers immediately after decanting. (Level 4)
+
+39. UsedOrStoredState Hazard: Be cautious when handling items that are used or stored improperly, as they may pose a risk of contamination, spillage, or minor injury. (Level 3)
+
+40. ContaminatedDecantingProcess Hazard: Contaminated liquids during decanting can pose serious health risks or damage equipment. Ensure all tools and containers are thoroughly cleaned and sanitized before use, and verify the purity of substances being transferred. (Level 4)
+
+41. SubstanceLabelIssue Hazard: Ensure all substances are clearly and correctly labeled to prevent misuse or accidental exposure. (Level 3)
+
+42. DocumentContainsSubstanceInfo Hazard: Be cautious when handling documents containing substance information. Ensure that substances described are properly labeled and handled according to safety guidelines. (Level 2)
+
+43. HandsTouchContaminatedFood Hazard: Avoid touching raw meat, poultry, seafood, or their packaging with bare hands to prevent cross-contamination. Always wash your hands thoroughly after handling these items. (Level 3)
+
+44. DirtyFoodContactSurface Hazard: Dirty food contact surfaces can lead to contamination, causing foodborne illnesses. Clean and sanitize all surfaces before preparing or serving food. (Level 3)
+
+45. DirtyFruitVegetableHazard Hazard: Wash fruits and vegetables thoroughly under running water before consumption to avoid contamination and potential foodborne illnesses. (Level 2)
+
+46. ChildNearSharpObject Hazard: Keep all sharp objects away from children and ensure they are properly secured. Children can be seriously injured by knives, scissors, or other sharp tools if left accessible. (Level 4)
+
+47. ElectricalConductiveWaterHazard Hazard: Do not use electrical equipment near water sources unless properly grounded, as it can lead to severe electric shock or electrocution. (Level 5)
+
+48. ElectricalSafetyCheck Hazard: Ensure all electrical equipment is free from hazards and not located near recognized hazards to prevent potential malfunctions or minor injuries. (Level 2)
+
+49. ApplianceWaterExposureHazard Hazard: Do not expose electrical appliances to water unless they are plugged into a GFCI outlet, as this can cause electric shock or appliance damage. (Level 4)
+
+50. PermanentElectricalUse Hazard: Avoid using extension cords or power strips for permanent electrical connections. These devices are designed for temporary use and may overheat, cause electrical fires, or lead to serious injury when used improperly over extended periods. (Level 4)
+
+51. GroundedApplianceSafety Hazard: Ensure all grounded appliances are properly connected to grounded outlets and regularly inspect cords and outlets for damage or wear. Avoid overloading circuits. (Level 3)
+
+52. HighTrafficSpillHazard Hazard: Be cautious of spills in high-traffic areas as they can cause slips, trips, and falls leading to serious injury. (Level 4)
+
+53. DirtyFloorNearGrease Hazard: A dirty floor near grease increases the risk of slips, falls, and potential burns. Clean the area immediately and ensure proper footwear is worn. (Level 4)
+
+54. WorkstationAntiFatigueMat Hazard: Ensure anti-fatigue mats are properly secured and free of tripping hazards to prevent slips or trips at the workstation. (Level 2)
+
+55. SlipperyGreasyFloor Hazard: The floor is slippery and greasy, which increases the risk of severe falls. Wear non-slip footwear, clean the floor immediately, and place warning signs to alert others. (Level 4)
+
+56. CookingOilOnFloor Hazard: Cooking oil on the floor creates a slippery surface that can lead to falls. Clean up spills immediately and ensure proper footwear is worn in the kitchen. (Level 3)
+
+57. PersonAboveHotSteam Hazard: Avoid standing or leaning directly above hot steam from cooking equipment or boiling liquids to prevent severe burns and respiratory irritation. (Level 4)
+
+58. PersonAboveHotOvenOrSteamer Hazard: Avoid standing directly above or too close to a hot oven or steamer as it can cause severe burns from hot air, steam, or splashes. (Level 4)
+
+59. CookerUnderPressureOpen Hazard: Do not open a cooker or steam oven while it is under pressure, as this can cause an explosive release of hot steam and food particles, leading to severe burns or injury. (Level 5)
+
+60. HotFoodContained Hazard: Be cautious when handling containers with hot food directly from the stove or microwave. Use oven mitts or potholders to avoid burns. (Level 3)
+
+61. SteamingContainerNearFace Hazard: Avoid bringing your face close to a steaming container with its lid open or partially open, as the escaping steam can cause severe burns to your face and eyes. (Level 4)
+
+62. HeavyPotWithHotLiquid Hazard: Be cautious when lifting or moving the heavy pot with hot liquid to avoid spills, burns, or dropping the pot. Use oven mitts and ensure a secure grip. (Level 4)
+
+63. HotLiquidHazard Hazard: Be cautious when handling hot liquids as they can cause severe burns or scalding injuries. Use protective gloves and ensure proper ventilation if steam is involved. (Level 4)
+
+64. PotHandleAwayFromStoveEdge Hazard: Ensure pot handles are positioned away from the stove edge to prevent accidental tipping, burns, or spills. (Level 3)
+
+65. HotCookwareNearMoisture Hazard: Do not place hot cookware near hot moisture sources (e.g., boiling water, steam) to avoid sudden vaporization or splashing that can cause severe burns. (Level 4)
+
+66. SleeveNearFlame Hazard: Keep sleeves away from flames to avoid burns or fire hazards. Roll up or secure loose clothing when working near stovetops or open flames. (Level 4)
+
+67. KidNearActiveStove Hazard: Keep children away from active stoves to prevent burns, injuries, or accidents. (Level 4)
+
+68. TippedPotHandleNearBurner Hazard: A tipped pot with its handle near a burner poses a high risk of spilling hot contents, causing burns or starting a fire. Ensure all pots are stable and handles are positioned safely away from burners. (Level 4)
+
+69. HotLiquidInPotOrPan Hazard: Be cautious when handling pots or pans containing hot liquids to avoid severe burns. Use oven mitts, ensure handles are turned inward, and keep children and pets away. (Level 4)
+
+70. CleaningChemicalNearFood Hazard: Keep cleaning chemicals away from food to prevent contamination and potential ingestion hazards. (Level 3)
+
+71. ImproperlyStoredChemical Hazard: Do not store cleaning chemicals in containers other than their original packaging. This can lead to misidentification, improper handling, and potential exposure to harmful substances. (Level 4)
+
+72. FoodChemicalMixingHazard Hazard: Do not mix food with chemicals or store them in incorrect containers. Chemical contamination of food can cause severe poisoning, allergic reactions, or long-term health effects. (Level 4)
+
+73. MicrowaveContainsMetalObject Hazard: Critical Warning: Metal objects detected in microwave, do not operate! Remove all metal items immediately! (Level 4)
+
+74. MicrowaveForbiddenMaterial Hazard: Heating foods with shells or thick skins in the microwave can cause them to explode due to steam buildup, potentially causing injury and damage to the appliance. (Level 4)
+
+75. UnlabeledChemicalContainerHazard Hazard: Unlabeled chemical containers may contain hazardous substances that could cause serious injury or health risks if mishandled. Always label all chemical containers clearly with contents and hazards. (Level 4)
+
+76. UnsecuredChemicalCabinet Hazard: Unsecured chemical cabinets may allow unauthorized access to hazardous substances, leading to potential poisoning, burns, or environmental contamination. Always ensure chemical storage areas are locked and inaccessible to unauthorized individuals. (Level 4)
+
+77. WetChemicalCabinet Hazard: Wet chemicals stored in cabinets can lead to leaks, spills, or reactions that may cause serious injury or property damage. Ensure all chemical containers are sealed properly and stored in dry conditions. (Level 4)
+
+78. ChemicalNearFood Hazard: Keep all chemicals away from food to prevent contamination and potential ingestion, which could lead to serious health risks. (Level 4)
+
+79. UnlabeledChemicalHazard Hazard: Unlabeled chemical products may contain hazardous substances. Avoid contact, inhalation, or ingestion until properly identified. Always label chemicals clearly to prevent accidental misuse. (Level 4)
+
+80. ChemicalInUpdatedFile Hazard: Be cautious when handling chemicals listed in updated files, as they may have new hazards or handling requirements not reflected in previous documentation. (Level 3)
+
+81. ChemicalAboveHeadStorage Hazard: Do not store chemicals above head height to prevent accidental spills or drops that could cause serious injury, respiratory issues, or chemical burns. (Level 4)
+
+82. ContaminatedFoodHandler Hazard: Dirty hands can transfer harmful bacteria or contaminants to food, potentially causing foodborne illnesses. Always wash hands thoroughly before handling food. (Level 3)
+
+83. Stoveburnerusagerisk Hazard: Placing a pan on a stove burner and turning on the knob can lead to burns or fires if not handled properly. (Level 3)
+
+84. EmployeeFireSafetyTraining Hazard: Employees without proper fire safety training may misuse fire extinguishers, leading to uncontrolled fire hazards or ineffective response during emergencies. (Level 3)
+
+85. FireExtinguisherAccessible Hazard: Ensure that the fire extinguisher is always accessible and in good working condition to prevent delays or inability to respond effectively during emergencies. (Level 2)
+
+86. HotOilContainerHazard Hazard: Hot oil can cause severe burns or splatter, leading to serious injuries. Always use protective gear and handle with extreme care. (Level 4)
+
+87. OilFireHazard Hazard: Oil on fire can spread rapidly and cause severe burns, toxic fumes, or explosions. Never leave hot oil unattended, and use a fire extinguisher rated for grease fires if needed. (Level 5)
+
+88. OilGreaseFireHazard Hazard: Hot oil and grease can ignite easily, leading to severe fires. Always monitor cooking oils closely, keep flammable materials away, and have a fire extinguisher rated for grease fires readily available. (Level 5)
+
+89. WaterIceInOilSpill Hazard: Never allow water or ice to come into contact with hot oil, as it can cause an explosive reaction leading to severe burns and fires. (Level 5)
+
+90. SlipperyFloorNearGrillArea Hazard: Be cautious of slippery floors near the grill area due to oil spills. Wear non-slip shoes and clean up any spills immediately to prevent slips and falls. (Level 4)
+
+91. FloorNearHotWetSurfaceHazard Hazard: Be cautious of slippery and hot surfaces. Avoid walking on wet floors near hot appliances to prevent burns or slips that could lead to serious injury. (Level 4)
+
+92. CrossContaminationRisk Hazard: Do not use the same cutting board for raw food and ready-to-eat food without proper cleaning. Cross-contamination can lead to foodborne illnesses. (Level 3)

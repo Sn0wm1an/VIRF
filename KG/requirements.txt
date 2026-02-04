@@ -1,0 +1,9 @@
+owlready2
+pycocotools
+flask
+dds_cloudapi_sdk
+Pillow
+langchain
+dotenv
+openai
+langchain-openai

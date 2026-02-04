@@ -1,0 +1,25 @@
+1. Microwave Prohibition (Mugs/Cups): Placing mugs or cups in the microwave is considered a danger (Level 3). These containers often have metal handles or decorations that cause sparking; use microwave-safe containers instead.
+
+2. Microwave Unknown Materials: It is a safety inquiry situation to operate a microwave containing objects of unknown material. Verification is required to confirm the item is safe to heat.
+
+3. Cup Usage Restriction: Placing eggs inside cups is considered dangerous (Level 2). Cups are not suitable containers for eggs due to hygiene risks and high likelihood of breakage; bowls should be used instead.
+
+4. Stove Fire Hazard (Bread): Placing bread directly on an active stove burner is a critical danger (Level 8). This creates an immediate fire hazard as bread burns and ignites rapidly.
+
+5. Refrigerator Storage Rules: Storing non-food items in the refrigerator is prohibited (Level 3). Only food items are allowed to prevent cross-contamination and potential appliance damage.
+
+6. Coffee Machine Misuse: Placing a tomato inside a coffee machine while it is on is prohibited (Level 3) as it will cause electrical malfunction or device damage.
+
+7. Drawer Safety (Eggs): Placing eggs inside drawers is classified as dangerous (Level 3). Forcefully closing a drawer containing an egg will likely cause breakage and contamination.
+
+8. Toaster Electrical Hazard: Inserting a fork into a toaster while it is on is strictly prohibited (Level 5). This poses a severe risk of electrical shock, fire, or injury.
+
+9. Kettle Scalding Risk: Placing a kettle on a stove requires caution (Level 3). Mishandling a hot kettle filled with water can lead to severe burns or scalding.
+
+10. Stove Hazard (Mugs): Placing a mug on an active stove burner is prohibited (Level 3). This causes overheating, potential spillage, and damage to the mug.
+
+11. Stove Hazard (Forks): Placing a fork on an active stove burner is strictly prohibited (Level 5). Metal objects on burners can cause electrical shock (if electric) or create severe burn hazards.
+
+12. Stove Hazard (Knives): Placing a knife on a stove burner is prohibited (Level 4). The high temperature can damage the tool and creating a burning/cutting hazard upon retrieval.
+
+13. Stove Hazard (Eggs): Placing an egg directly on an active stove burner is prohibited (Level 3). Rapid heating can cause the egg to splatter or explode; proper cooking utensils must be used.

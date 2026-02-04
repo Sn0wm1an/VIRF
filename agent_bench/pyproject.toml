@@ -1,0 +1,24 @@
+[project]
+name = "agent-bench"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "ai2thor>=5.0.0",
+    "jsonlines>=4.0.0",
+    "openai>=1.102.0",
+    "rich>=10.14.0,<14",
+    "scipy>=1.10.1",
+    "owlready2",
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = ["main", "logger", "llm", "low_level_controller", "utils", "map_vlm", "detail_evaluate"]
+
+[tool.setuptools.packages.find]
+exclude = ["data*", "results*", "model_2_3*"]
